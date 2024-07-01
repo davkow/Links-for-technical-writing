@@ -26,11 +26,14 @@ https://www.scriptorium.com/blog/
 **STC notebook**<br>
 https://www.stc.org/notebook/all/
 
-**Document360 Blog**<br>
-https://document360.com/blog/
-
 **JETBRAINS Blog - Writerside**<br>
 https://blog.jetbrains.com/writerside/
+
+**Docs as Tests**<br>
+https://www.docsastests.com/blog
+
+**Document360 Blog**<br>
+https://document360.com/blog/
 
 **Docs By Design**<br>
 Bob Watson<br>
