@@ -1,4 +1,4 @@
-# Links-for-technical-writing (blogs, podcasts/videos, books...)
+# Links for technical writing (blogs, podcasts/videos, books...)
 
 ## Blogs
 
