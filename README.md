@@ -70,6 +70,10 @@ https://techwritingtalks.com/
 Ren Taylor<br>
 https://open.spotify.com/show/7sfUcBaDWcaSMj2HrMBdtG
 
+**Content strategy insights podcast**<br>
+Larry Swanson<br>
+https://ellessmedia.com/csi/
+
 
 ## Slack channel<br>
 
