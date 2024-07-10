@@ -87,10 +87,17 @@ Conferences: https://www.writethedocs.org/conf/
 Bruno Pedro<br>
 https://substack.com/@bpedro
 
-
 **Technical Writing is Easy - Technical Writing is for Everyone**<br>
 Kesi Parker<br>
 https://medium.com/technical-writing-is-easy
+
+**Cyborgs Writing**<br>
+Lance Cummings<br>
+https://www.isophist.com/?utm_source=substack&utm_medium=web&utm_campaign=substack_profile
+
+**Mostly Harmless Ideas**<br>
+Alejandro Piad Morffis<br>
+https://blog.apiad.net
 
 ## Other
 
