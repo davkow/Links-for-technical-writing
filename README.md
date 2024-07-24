@@ -87,6 +87,11 @@ Conferences: https://www.writethedocs.org/conf/
 Bruno Pedro<br>
 https://substack.com/@bpedro
 
+**The API Economy**<br>
+Peter Schroeder<br>
+https://www.apifirst.tech/
+
+
 **Technical Writing is Easy - Technical Writing is for Everyone**<br>
 Kesi Parker<br>
 https://medium.com/technical-writing-is-easy
