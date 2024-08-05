@@ -150,3 +150,13 @@ Includes sections on style guides and conferences
 
 - Arnaud Lauret. The Design of Web APIs, Second Edition (Manning) | Manning early access program (MEAP) began Dec 2023. Pub in Summer 2025 est.<br>
 https://www.manning.com/books/the-design-of-web-apis-second-edition
+
+## Tech comics 
+
+- The API-First World - A Postman, Inc. graphic novel<br>
+  https://api-first-world.com/
+
+- Smooth sailing with Kubernetes<br>
+  https://cloud.google.com/kubernetes-engine/kubernetes-comic
+
+
