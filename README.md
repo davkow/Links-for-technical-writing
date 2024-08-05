@@ -70,10 +70,12 @@ https://techwritingtalks.com/
 Ren Taylor<br>
 https://open.spotify.com/show/7sfUcBaDWcaSMj2HrMBdtG
 
+**Breaking changes** ("A weekly talk show where guests discuss, debate, and solve the latest topics around APIs.")<br>
+https://www.postman.com/events/breaking-changes/ | https://podcasts.apple.com/us/podcast/breaking-changes/id1574147652
+
 **Content strategy insights podcast**<br>
 Larry Swanson<br>
 https://ellessmedia.com/csi/
-
 
 ## Slack channel<br>
 
