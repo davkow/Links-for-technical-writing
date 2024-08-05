@@ -34,6 +34,10 @@ Manny Silva<br>
 https://www.docsastests.com/blog<br>
 - Video, 05-Aug-2024: [Docs as Tests: A strategy for resilient documentation](https://www.youtube.com/watch?v=A0M8LlVjNYk)
 
+**Word Parlor**<br>
+LinkedIn Group: Melissa Jayne Kinsey<br>
+https://www.linkedin.com/groups/14432255
+
 **Document360 Blog**<br>
 https://document360.com/blog/
 
