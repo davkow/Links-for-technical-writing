@@ -30,7 +30,9 @@ https://www.stc.org/notebook/all/
 https://blog.jetbrains.com/writerside/
 
 **Docs as Tests**<br>
-https://www.docsastests.com/blog
+Manny Silva<br>
+https://www.docsastests.com/blog<br>
+- Video, 05-Aug-2024: [Docs as Tests: A strategy for resilient documentation](https://www.youtube.com/watch?v=A0M8LlVjNYk)
 
 **Document360 Blog**<br>
 https://document360.com/blog/
