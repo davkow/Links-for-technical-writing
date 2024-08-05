@@ -130,8 +130,8 @@ Includes sections on style guides and conferences
 ### Tech writing 
 
 - Chris Chinchilla. Technical Writing for Software Developers (Packt Publishing) | 2024<br>
-	https://www.packtpub.com/product/technical-writing-for-software-developers/9781835080405
-
+  https://www.packtpub.com/product/technical-writing-for-software-developers/9781835080405<br>
+  - Book Review on passo blog, 09-June-2024: https://passo.uno/review-technical-writing-software-developers/
 - Kieran Morgan. Technical Writing Process | 2024, Second edition<br>
   https://technicalwritingprocess.com/
 
