@@ -72,6 +72,15 @@ https://apithedocs.org/podcast
 **Technical Writing Talks**<br>
 https://techwritingtalks.com/
 
+Ubuntu OnAir<br> 
+https://www.youtube.com/@UbuntuOnAir/videos
+
+Sustain ("...brings together practitioners, sustainers, funders, researchers and maintainers of the open source ecosystem.")<br>
+https://podcast.sustainoss.org/
+
+The Changelog podcast ("Software's best weekly news brief, deep technical interviews & talk show")<br>
+https://changelog.com/podcast
+
 **Content Components**<br>
 Ren Taylor<br>
 https://open.spotify.com/show/7sfUcBaDWcaSMj2HrMBdtG
