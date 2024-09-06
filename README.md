@@ -168,4 +168,8 @@ https://www.manning.com/books/the-design-of-web-apis-second-edition
 - Smooth sailing with Kubernetes<br>
   https://cloud.google.com/kubernetes-engine/kubernetes-comic
 
+### Writing 
 
+- Ann Handley. Everybody Writes, Second Edition (Wiley) | 2022<br>
+  https://annhandley.com/everybodywrites/
+   
