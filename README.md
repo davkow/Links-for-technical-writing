@@ -32,7 +32,6 @@ https://blog.jetbrains.com/writerside/
 **Docs as Tests**<br>
 Manny Silva<br>
 https://www.docsastests.com/blog<br>
-- Video, 05-Aug-2024: [Docs as Tests: A strategy for resilient documentation](https://www.youtube.com/watch?v=A0M8LlVjNYk)
 
 **Word Parlor**<br>
 LinkedIn Group: Melissa Jayne Kinsey<br>
@@ -72,6 +71,9 @@ https://apithedocs.org/podcast
 **Technical Writing Talks**<br>
 https://techwritingtalks.com/
 
+**10-Minute Tech Comm** (Ryan Weber, https://tenminutetechcomm.com/)<br>
+https://podcasts.apple.com/us/podcast/10-minute-tech-comm/id920575683
+
 Ubuntu OnAir<br> 
 https://www.youtube.com/@UbuntuOnAir/videos
 
@@ -108,7 +110,6 @@ https://substack.com/@bpedro
 Peter Schroeder<br>
 https://www.apifirst.tech/
 
-
 **Technical Writing is Easy - Technical Writing is for Everyone**<br>
 Kesi Parker<br>
 https://medium.com/technical-writing-is-easy
@@ -120,6 +121,11 @@ https://www.isophist.com/?utm_source=substack&utm_medium=web&utm_campaign=substa
 **Mostly Harmless Ideas**<br>
 Alejandro Piad Morffis<br>
 https://blog.apiad.net
+
+**Modern JSON Schema and APIs**<br>
+Henry Andrews<br>
+https://modern-json-schema.com/newsletter
+
 
 ## Other
 
