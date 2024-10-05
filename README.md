@@ -33,6 +33,10 @@ https://blog.jetbrains.com/writerside/
 Manny Silva<br>
 https://www.docsastests.com/blog<br>
 
+**LornaJane blog**<br>
+Lorna Mitchell (VP of Developer Experience at Redocly)<br>
+https://lornajane.net/blog
+
 **Word Parlor**<br>
 LinkedIn Group: Melissa Jayne Kinsey<br>
 https://www.linkedin.com/groups/14432255
@@ -144,6 +148,9 @@ Includes sections on style guides and conferences
 - Anna Skoulikari. Learning Git: A Hands-On and Visual Guide to the Basics of Git. (O'Reilly) | 2023<br>
   https://www.oreilly.com/library/view/learning-git/9781098133900/
 
+- Lorna Mitchell. Git Workbook: Self-study Guide to Git<br>
+  https://leanpub.com/gitworkbook
+
 - Katie Sylor-Miller and Julie Evans. Oh shit, git! Recipes for getting out of a git mess -- Zine<br>
   https://wizardzines.com/zines/oh-shit-git/
 
@@ -166,13 +173,19 @@ Includes sections on style guides and conferences
 - Arnaud Lauret. The Design of Web APIs, Second Edition (Manning) | Manning early access program (MEAP) began Dec 2023. Pub in Summer 2025 est.<br>
 https://www.manning.com/books/the-design-of-web-apis-second-edition
 
-## Tech comics 
+### Tech comics 
 
 - The API-First World - A Postman, Inc. graphic novel<br>
   https://api-first-world.com/
 
 - Smooth sailing with Kubernetes<br>
   https://cloud.google.com/kubernetes-engine/kubernetes-comic
+
+### Docs as tests
+
+- **Forthcoming**: Manny Silva. Docs as Tests: A Strategy for Resilient Technical Documentation (Boffin Education)<br>
+  https://boffin.education/docs-as-tests/
+
 
 ### Writing 
 
