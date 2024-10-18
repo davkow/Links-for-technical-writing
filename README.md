@@ -52,10 +52,12 @@ Useful suff - emphasis on links for API docs: https://docsbydesign.com/useful-st
 **Mark Wentowski's Articles**<br>
 https://document360.com/blog/author/mawentowskigmail-com/
 
+**API Evangelist** (Kin Lane)<br>
+https://apievangelist.com/blog/
+
 ## Podcasts/videos
 
-**Videos**<br> 
-Chris Chinchilla<br>
+**Videos - Chris Chinchilla**<br>
 https://chrischinchilla.com/videos/
 
 **Cherryleaf Podcast**<br>
@@ -71,6 +73,9 @@ https://www.insidetechcomm.show/
 
 **API the Docs**<br>
 https://apithedocs.org/podcast
+
+**The Culture of Writing Podcast** (Writers, editors, and content strategists from Salesforce)<br>
+https://podcasts.apple.com/ca/podcast/the-culture-of-writing-podcast/id1702572028
 
 **Technical Writing Talks**<br>
 https://techwritingtalks.com/
