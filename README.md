@@ -33,6 +33,10 @@ https://blog.jetbrains.com/writerside/
 Manny Silva<br>
 https://www.docsastests.com/blog<br>
 
+**technicalwriting.dev#**<br>
+Kayce Basques<br>
+https://technicalwriting.dev/index.html#technicalwriting-dev
+
 **LornaJane blog**<br>
 Lorna Mitchell (VP of Developer Experience at Redocly)<br>
 https://lornajane.net/blog
@@ -167,11 +171,25 @@ Includes sections on style guides and conferences
 - Chris Chinchilla. Technical Writing for Software Developers (Packt Publishing) | 2024<br>
   https://www.packtpub.com/product/technical-writing-for-software-developers/9781835080405<br>
   - Book Review on passo blog, 09-June-2024: https://passo.uno/review-technical-writing-software-developers/
+    
 - Kieran Morgan. Technical Writing Process | 2024, Second edition<br>
   https://technicalwritingprocess.com/
 
 - Alejandra Quetzalli. Docs-as-Ecosystem: The Community Approach to Engineering Documentation (Springer) | 2023<br>
-	https://link.springer.com/book/10.1007/978-1-4842-9328-7 | https://www.docsasecosystem.com/
+  https://link.springer.com/book/10.1007/978-1-4842-9328-7 | https://www.docsasecosystem.com/
+  
+- Anne Gentle. Docs Like Code. Collaborate and Automate to Improve Technical Documentation | 2022<br>
+  [book site](https://www.docslikecode.com/book/)<br>
+  [order from lulu](https://www.lulu.com/shop/anne-gentle-and-eric-holscher-and-diane-skwish-and-kelly-holcomb/docs-like-code/paperback/product-m8w8z7.html?page=1&pageSize=4)
+
+- Jared Bhatti +.... Docs for Developers: An Engineer’s Field Guide to Technical Writing (Apress) | 2021<br>
+  https://docsfordevelopers.com/ 
+
+- Splunk Documentation Tean. The Product is Docs: Writing technical documentation in a product development group | 2020, Second edition<br>
+  [Splunk site](https://www.splunk.com/en_us/blog/splunklife/the-product-is-docs-second-edition-available-now.html)  
+
+
+
 
 ### APIs
 
