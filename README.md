@@ -139,6 +139,9 @@ https://blog.apiad.net
 Henry Andrews<br>
 https://modern-json-schema.com/newsletter
 
+**The Content Pool**<br>
+Alan J. Porter
+https://thecontentpool.substack.com/
 
 ## Other
 
