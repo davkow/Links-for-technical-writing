@@ -199,6 +199,9 @@ Includes sections on style guides and conferences
 - Arnaud Lauret. The Design of Web APIs, Second Edition (Manning) | Manning early access program (MEAP) began Dec 2023. Pub in Summer 2025 est.<br>
 https://www.manning.com/books/the-design-of-web-apis-second-edition
 
+- James Higginbotham. Principles of Web API Design: Delivering Value with APIs and Microservices (Addison-Wesley Professional). 2021<br>
+https://www.informit.com/store/principles-of-web-api-design-delivering-value-with-9780137355631
+
 ### Tech comics 
 
 - The API-First World - A Postman, Inc. graphic novel<br>
