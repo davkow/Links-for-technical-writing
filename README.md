@@ -221,6 +221,10 @@ https://www.informit.com/store/principles-of-web-api-design-delivering-value-wit
 
 ### Writing 
 
+- Michael Lynch. Refactoring English<br>
+  Available as a digital download in 2025<br>
+  https://refactoringenglish.com/
+  
 - Ann Handley. Everybody Writes, Second Edition (Wiley) | 2022<br>
   https://annhandley.com/everybodywrites/
    
