@@ -143,7 +143,7 @@ Henry Andrews<br>
 https://modern-json-schema.com/newsletter
 
 **The Content Pool**<br>
-Alan J. Porter
+Alan J. Porter<br>
 https://thecontentpool.substack.com/
 
 ## Other
