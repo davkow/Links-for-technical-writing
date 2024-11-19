@@ -227,4 +227,10 @@ https://www.informit.com/store/principles-of-web-api-design-delivering-value-wit
   
 - Ann Handley. Everybody Writes, Second Edition (Wiley) | 2022<br>
   https://annhandley.com/everybodywrites/
+
+### Other
+
+- Abby Covert. [Stuck? Diagrams Help](https://abbycovert.com/stuck/?_ga=2.39476007.585905404.1732056332-1595373861.1732056218) and [How to make sense of any mess](https://abbycovert.com/make-sense/?_ga=2.39476007.585905404.1732056332-1595373861.1732056218)<br>
+  
+  
    
