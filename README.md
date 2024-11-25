@@ -221,6 +221,9 @@ https://www.informit.com/store/principles-of-web-api-design-delivering-value-wit
 
 ### Writing 
 
+- Piotr Sarna and Cynthia Dunlop. Writing for Developers: Blogs that get read (Manning) | Release date: 28-Jan-2025<br>
+  https://www.simonandschuster.com/books/Writing-for-Developers/Piotr-Sarna/9781633436282
+
 - Michael Lynch. Refactoring English<br>
   Available as a digital download in 2025<br>
   https://refactoringenglish.com/
