@@ -238,7 +238,7 @@ https://www.informit.com/store/principles-of-web-api-design-delivering-value-wit
 - Sam Schillace. No Prize for Pessimism. Letters from a messy tech optimist (8080 Books, an imprint of Microsoft) | 2024<br>
   https://unlocked.microsoft.com/8080-books/
 
-- Adrienne Braganza. ["Looks Good to Me" Constructive code reviews](https://www.manning.com/books/looks-good-to-me) (Manning) | 2024
-  Not for writers, but still could be useful for learning/understanding the work that devs do
+- Adrienne Braganza. ["Looks Good to Me" Constructive code reviews](https://www.manning.com/books/looks-good-to-me) (Manning) | 2024<br>
+  Not for writers, but still could be useful for understanding the work that devs do.
   
    
