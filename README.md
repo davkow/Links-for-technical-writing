@@ -221,7 +221,7 @@ https://www.informit.com/store/principles-of-web-api-design-delivering-value-wit
 
 ### Writing 
 
-- **Forthcoming, 04-Feb-2025**: John Warner. More Than Words: How to Think About Writing in the Age of AI (Basic Books)<br>
+- John Warner. More Than Words: How to Think About Writing in the Age of AI (Basic Books) | Release date: 04-Feb-2025<br>
   https://www.hachettebookgroup.com/titles/john-warner/more-than-words/9781541605503/
 
 - Piotr Sarna and Cynthia Dunlop. Writing for Developers: Blogs that get read (Manning) | Release date: 28-Jan-2025<br>
