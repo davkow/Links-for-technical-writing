@@ -221,15 +221,16 @@ https://www.informit.com/store/principles-of-web-api-design-delivering-value-wit
 
 ### Writing 
 
-- John Warner. More Than Words: How to Think About Writing in the Age of AI (Basic Books) | Release date: 04-Feb-2025<br>
-  https://www.hachettebookgroup.com/titles/john-warner/more-than-words/9781541605503/
-
-- Piotr Sarna and Cynthia Dunlop. Writing for Developers: Blogs that get read (Manning) | Release date: 28-Jan-2025<br>
+- Piotr Sarna and Cynthia Dunlop. Writing for Developers: Blogs that get read (Manning) | **Release date**: 28-Jan-2025<br>
   https://www.simonandschuster.com/books/Writing-for-Developers/Piotr-Sarna/9781633436282
+
+- John Warner. More Than Words: How to Think About Writing in the Age of AI (Basic Books) | **Release date**: 04-Feb-2025<br>
+  https://www.hachettebookgroup.com/titles/john-warner/more-than-words/9781541605503/
 
 - Michael Lynch. Refactoring English<br>
   Available as a digital download in 2025<br>
-  https://refactoringenglish.com/
+  https://refactoringenglish.com/<br>
+  First chapter - Tutorials (Posted 02-Jan-2025: https://refactoringenglish.com/chapters/rules-for-software-tutorials/
   
 - Ann Handley. Everybody Writes, Second Edition (Wiley) | 2022<br>
   https://annhandley.com/everybodywrites/
