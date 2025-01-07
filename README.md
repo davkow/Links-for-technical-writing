@@ -240,6 +240,10 @@ https://www.informit.com/store/principles-of-web-api-design-delivering-value-wit
 - Geoff Woods. The AI-Driven Leader: Harnessing AI to Make Faster, Smarter (AI Thought Leadership™) |  2024<br>
   https://www.aileadership.com/
 
+- Podcast: **AI for Technial Writers**<br>
+  Curt Robbins and Associates Technical Writing Agency<br>
+  https://open.spotify.com/show/0qiXKvE6RsU2Xysh6zDAQz
+
 ### Other
 
 - Abby Covert. [Stuck? Diagrams Help](https://abbycovert.com/stuck/?_ga=2.39476007.585905404.1732056332-1595373861.1732056218) and [How to make sense of any mess](https://abbycovert.com/make-sense/?_ga=2.39476007.585905404.1732056332-1595373861.1732056218)<br>
