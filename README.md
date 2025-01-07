@@ -235,7 +235,10 @@ https://www.informit.com/store/principles-of-web-api-design-delivering-value-wit
 - Ann Handley. Everybody Writes, Second Edition (Wiley) | 2022<br>
   https://annhandley.com/everybodywrites/
 
-  
+### AI
+
+- Geoff Woods. The AI-Driven Leader: Harnessing AI to Make Faster, Smarter (AI Thought Leadership™) |  2024<br>
+  https://www.aileadership.com/
 
 ### Other
 
