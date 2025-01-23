@@ -68,6 +68,10 @@ https://chrischinchilla.com/videos/
 https://www.cherryleaf.com/podcast/<br>
 Blog: https://www.cherryleaf.com/blog/
 
+**The Not-Boring Tech Writer**<br>
+Kate Mueller<br>
+https://thenotboringtechwriter.com/
+
 **Knowledgebase Ninjas**<br>
 Gowri Ramkumar<br>
 https://podcasts.apple.com/gb/podcast/knowledgebase-ninjas/id1496613504
