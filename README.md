@@ -114,6 +114,11 @@ https://www.postman.com/events/breaking-changes/ | https://podcasts.apple.com/us
 Larry Swanson<br>
 https://ellessmedia.com/csi/
 
+(1) AI for Technical Writers & (2) Technical Writing Success<br>
+Curt Robbins and Associates Technical Writing Agency<br>
+(1) https://open.spotify.com/show/0qiXKvE6RsU2Xysh6zDAQz<br>   
+(2) https://open.spotify.com/show/2tFWJSw4sPk7S5O4Yl3d38
+
 ## Slack channel<br>
 
 **Write the docs**<br> 
