@@ -59,6 +59,10 @@ https://document360.com/blog/author/mawentowskigmail-com/
 **API Evangelist** (Kin Lane)<br>
 https://apievangelist.com/blog/
 
+Instructions - A Writing's Tale<br>
+Ana Durate<br>
+https://instructions.bearblog.dev/blog/
+
 ## Podcasts/videos
 
 **Videos - Chris Chinchilla**<br>
