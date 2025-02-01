@@ -11,6 +11,9 @@ Page only for podcasts: https://idratherbewriting.com/podcasts/
 Fabrizio Ferri Benedetti<br>
 https://passo.uno/
 
+**Eric Holscher**<br>
+https://www.ericholscher.com/blog/archive/category/link-blog/
+
 **The Content Wrangler**<br>
 Scott Abel<br>
 https://www.thecontentwrangler.com/
