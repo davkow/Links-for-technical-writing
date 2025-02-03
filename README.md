@@ -26,9 +26,6 @@ https://thisisimportant.net/
 Sarah O'Keefe<br>
 https://www.scriptorium.com/blog/
 
-**STC notebook**<br>
-https://www.stc.org/notebook/all/
-
 **JETBRAINS Blog - Writerside**<br>
 https://blog.jetbrains.com/writerside/
 
