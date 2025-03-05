@@ -248,6 +248,8 @@ https://www.informit.com/store/principles-of-web-api-design-delivering-value-wit
 
 - John Warner. More Than Words. How to Think About Writing in the Age of AI (Basic Books) | 2025-Feb-4<br>
   https://www.hachettebookgroup.com/titles/john-warner/more-than-words/9781541605510/
+  - Warner is a guest on the Search Engine podcast: Playboi Farti and his AI Homework Machine, 14-Feb-2025<br>
+    https://www.searchengine.show/listen/search-engine-1/playboi-farti-and-his-ai-homework-machine
 
 - Geoff Woods. The AI-Driven Leader: Harnessing AI to Make Faster, Smarter (AI Thought Leadership™) |  2024<br>
   https://www.aileadership.com/
