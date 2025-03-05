@@ -246,7 +246,7 @@ https://www.informit.com/store/principles-of-web-api-design-delivering-value-wit
 
 ### AI
 
-- John Warner. More Than Words. How to Think About Writing in the Age of AI (Basic Books) | 2025-Feb-4
+- John Warner. More Than Words. How to Think About Writing in the Age of AI (Basic Books) | 2025-Feb-4<br>
   https://www.hachettebookgroup.com/titles/john-warner/more-than-words/9781541605510/
 
 - Geoff Woods. The AI-Driven Leader: Harnessing AI to Make Faster, Smarter (AI Thought Leadership™) |  2024<br>
