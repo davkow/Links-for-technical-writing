@@ -130,6 +130,10 @@ Conferences: https://www.writethedocs.org/conf/
 
 ## Substack/Medium
 
+**The Documentation Ninja**<br>
+Jodie Putrino<br>
+https://docsninja.substack.com/
+
 **The API Changelog**<br>
 Bruno Pedro<br>
 https://substack.com/@bpedro
