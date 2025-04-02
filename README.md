@@ -271,5 +271,7 @@ https://www.informit.com/store/principles-of-web-api-design-delivering-value-wit
 
 - Adrienne Braganza. ["Looks Good to Me" Constructive code reviews](https://www.manning.com/books/looks-good-to-me) (Manning) | 2024<br>
   Not for writers, but still could be useful for understanding the work that devs do.
-  
-   
+
+- [Adam Duvander](https://www.linkedin.com/in/duvander/). [Developer Marketing Does Not Exist](https://everydeveloper.com/developer- 
+  marketing/book/) (EveryDeveloper, 2021)<br>
+  [Video: Does API Marketing Exist?](https://www.youtube.com/watch?v=6TR4gkb00Z0) 
