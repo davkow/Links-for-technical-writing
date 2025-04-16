@@ -221,13 +221,16 @@ https://www.manning.com/books/the-design-of-web-apis-second-edition
 - James Higginbotham. Principles of Web API Design: Delivering Value with APIs and Microservices (Addison-Wesley Professional). 2021<br>
 https://www.informit.com/store/principles-of-web-api-design-delivering-value-with-9780137355631
 
-### Tech comics 
+### Tech comics - sketches
 
 - The API-First World - A Postman, Inc. graphic novel<br>
   https://api-first-world.com/
 
 - Smooth sailing with Kubernetes<br>
   https://cloud.google.com/kubernetes-engine/kubernetes-comic
+
+- Sketch newsletter | [Nina Fernanda Duran](https://www.linkedin.com/in/ninadurann/)<br>
+  https://sketechnews.substack.com/
 
 ### Docs as tests
 
@@ -262,8 +265,9 @@ https://www.informit.com/store/principles-of-web-api-design-delivering-value-wit
   Curt Robbins and Associates Technical Writing Agency<br>
   https://open.spotify.com/show/0qiXKvE6RsU2Xysh6zDAQz
 
-### Other
+- [AI Book Club](https://idratherbewriting.com/ai-book-club/): Lists several books about AI  
 
+### Other
 
 - Alexandra Mack. Talking to Stakeholders: How to Add Value and Make an Impact by Building Strategic Relationships (Honest Lizard Press, 2025-March)<br>
   https://www.alchymyx.com/book
