@@ -234,7 +234,7 @@ https://www.informit.com/store/principles-of-web-api-design-delivering-value-wit
 
 ### Docs as tests
 
-- **Forthcoming - Kindle version out on 31-May-2025**: Manny Silva. Docs as Tests: A Strategy for Resilient Technical Documentation (Boffin Education)<br>
+- Manny Silva. Docs as Tests: A Strategy for Resilient Technical Documentation (Boffin Education)<br>
   https://boffin.education/docs-as-tests/
 
 
