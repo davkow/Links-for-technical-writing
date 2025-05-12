@@ -22,6 +22,10 @@ https://www.thecontentwrangler.com/
 Sarah Moir<br>
 https://thisisimportant.net/
 
+**Tech writing blog**<br>
+Liz Argall<br>
+https://lizargall.github.io/blog/welcome/
+
 **Scriptorium blog**<br>
 Sarah O'Keefe<br>
 https://www.scriptorium.com/blog/
