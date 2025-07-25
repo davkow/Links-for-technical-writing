@@ -90,6 +90,10 @@ https://www.insidetechcomm.show/
 **API the Docs**<br>
 https://apithedocs.org/podcast
 
+**Docuwiz**<br>
+Insights to create world class technical documentation<br>
+https://docuwiz.substack.com/podcast
+
 **The Culture of Writing Podcast** (Writers, editors, and content strategists from Salesforce)<br>
 https://podcasts.apple.com/ca/podcast/the-culture-of-writing-podcast/id1702572028
 
