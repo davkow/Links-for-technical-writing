@@ -12,7 +12,7 @@ Fabrizio Ferri Benedetti<br>
 https://passo.uno/
 
 **The Docs Layer**<br>
-Kaywin Afanasiff
+Kaywin Afanasiff<br>
 https://kaywina.github.io/docs-layer/blog/welcome/<br>
 
 **Eric Holscher**<br>
