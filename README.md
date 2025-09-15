@@ -11,6 +11,10 @@ Page only for podcasts: https://idratherbewriting.com/podcasts/
 Fabrizio Ferri Benedetti<br>
 https://passo.uno/
 
+**The Docs Layer**<br>
+Kaywin Afanasiff
+https://kaywina.github.io/docs-layer/blog/welcome/<br>
+
 **Eric Holscher**<br>
 https://www.ericholscher.com/blog/archive/category/link-blog/
 
