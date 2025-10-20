@@ -30,6 +30,10 @@ https://thisisimportant.net/
 Liz Argall<br>
 https://lizargall.github.io/blog/welcome/
 
+thoughts and things<br>
+CT Smith<br>
+https://docsgoblin.com/blog/blog.html
+
 **Scriptorium blog**<br>
 Sarah O'Keefe<br>
 https://www.scriptorium.com/blog/
