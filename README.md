@@ -34,6 +34,10 @@ thoughts and things<br>
 CT Smith<br>
 https://docsgoblin.com/blog/blog.html
 
+Words n Logic Blog | Insights on Technical Writing<br>
+Doug Purcell<br>
+https://wordsnlogic.com/blog/
+
 **Scriptorium blog**<br>
 Sarah O'Keefe<br>
 https://www.scriptorium.com/blog/
