@@ -34,6 +34,10 @@ thoughts and things<br>
 CT Smith<br>
 https://docsgoblin.com/blog/blog.html
 
+Insights<br>
+Brandi Hopkins<br>
+https://brandihopkins.com/blog/
+
 Words n Logic Blog | Insights on Technical Writing<br>
 Doug Purcell<br>
 https://wordsnlogic.com/blog/
