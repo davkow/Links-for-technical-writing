@@ -38,6 +38,10 @@ Insights<br>
 Brandi Hopkins<br>
 https://brandihopkins.com/blog/
 
+Alden DeSoto<br>
+Posts on LinkedIn<br>
+https://www.linkedin.com/in/aldendesoto/
+
 Words n Logic Blog | Insights on Technical Writing<br>
 Doug Purcell<br>
 https://wordsnlogic.com/blog/
